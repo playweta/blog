@@ -23,11 +23,11 @@
 
 > 前台：博客页面
 
-![image202109111243100](https://gitee.com/Im_age/blog-img/raw/master/images/202109111243100.jpg)
+![前台](https://gitee.com/Im_age/blog-img/raw/master/images/202109111243100.jpg)
 
 > 后台：管理系统
 
-![image-20210911113602543](https://gitee.com/Im_age/blog-img/raw/master/images/image-20210911113602543.png)
+![后台](https://gitee.com/Im_age/blog-img/raw/master/images/image-20210911113602543.png)
 
 ### 组织结构
 
